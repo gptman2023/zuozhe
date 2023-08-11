@@ -130,6 +130,6 @@ export const DEFAULT_MODELS = [
   },
   {
     name: "chatglm", // chatglm-6b
-    available: false,
+    available: true,
   },
 ] as const;
