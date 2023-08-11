@@ -109,6 +109,10 @@ export const DEFAULT_MODELS = [
     available: true,
   },
   {
+    name: "chatglm_pro",
+    available: true,
+  },
+  {
     name: "qwen-v1", // 通义千问
     available: false,
   },
